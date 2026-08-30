@@ -20,9 +20,7 @@ A frog wakes, sips joe, checks charts and says “let’s hop to the moon.” Cu
 
 Mascot
 
-I’ll add the image manually. Drop at /assets/mascot.png and use:Cup of Joe mascot
-
-Alt: frog in a blue hoodie with bold white “JOE” sipping coffee at sunrise.
+LE FROG TOKEN
 
 
 Tokenomics
@@ -41,7 +39,7 @@ Tokenomics
 
 • LP: Auto-created at launch (paired with SOL) 🔒
 
-• Mint address: TBA — paste here after deploy
+• Mint address: TBA 
 
 
 How to Buy (Pump.fun, Solana)
@@ -85,7 +83,7 @@ Community Rules (caffeinated)
 • Have fun and keep the vibes warm.
 
 
-Socials (placeholders)
+Socials 
 
 • X: https://x.com/YourHandleHere
 
@@ -95,16 +93,6 @@ Socials (placeholders)
 
 Replace with real links after deploy.
 
-
-Launch checklist
-
-• Deploy mint & paste mint address
-
-• Upload /assets/mascot.png
-
-• Update socials, verify mint, publish tx links
-
-• Announce launch + memes
 
 
 Disclaimer
