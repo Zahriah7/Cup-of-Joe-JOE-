@@ -1,6 +1,6 @@
 Cup of Joe (JOE) ☕🐸
 
-Morning fuel for degens — wake, sip, trade.Ticker: $JOE | Mascot: frog in a blue hoodie (bold white “JOE”) sipping coffee at sunrise 🌅
+Morning fuel for degens — wake, sip, trade.
 
 
 Tagline
