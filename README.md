@@ -1,19 +1,8 @@
 Cup of Joe (JOE) ☕🐸
 
-Morning fuel for degens — wake, sip, trade.
-
-
-Tagline
-
 Morning fuel for degens ☕🚀
 
-
-One-liner
-
 A cozy Solana meme token brewed for traders who wake up for coffee and charts.
-
-
-Origin (micro)
 
 A frog wakes, sips joe, checks charts and says “let’s hop to the moon.” Cup of Joe was born.
 
